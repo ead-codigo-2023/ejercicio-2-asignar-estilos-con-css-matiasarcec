@@ -16,6 +16,7 @@ h1{
     font-style: normal;
     font-weight: 900;
     line-height: 90px; 
+    
 }
 
 p{
@@ -38,6 +39,13 @@ a{
     font-weight: 500;
     line-height: normal;
     letter-spacing: -1.125px;
+    padding: 0%;
+    padding: 12px 22px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #000;
 }
 
 .hero{
